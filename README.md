@@ -58,7 +58,7 @@ Transforming complex datasets into actionable insights that drive strategic deci
 <a href="https://linkedin.com/in/abhinavvarmaa723">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>&nbsp;&nbsp;
-<a href="[https://github.com/Abhiiiii7#]">
+<a href="[https://github.com/Abhiiiii7]">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
 </a>&nbsp;&nbsp;
 <a href="#">
