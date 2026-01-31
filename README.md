@@ -823,7 +823,7 @@ Programming • Data Science • Systems Analysis
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavkonderu&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=4A90E2&line=50E3C2&point=FFA116&area=true&hide_border=true&theme=react"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiiiii7&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=4A90E2&line=50E3C2&point=FFA116&area=true&hide_border=true&theme=react"
     width="95%"
     alt="Annual Development Activity"
   />
