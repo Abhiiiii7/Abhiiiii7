@@ -10,7 +10,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=300&section=header&text=ABHINAV%20KONDERU&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20BUSINESS%20INTELLIGENCE%20◉%20FORECASTING%20EXPERT%20◉&descSize=18&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=300&section=header&text=ABHINAV%20VARMA&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20BUSINESS%20INTELLIGENCE%20◉%20FORECASTING%20EXPERT%20◉&descSize=18&descAlign=50&descAlignY=75" />
+
+  <br/><br/>
+
+  <img src="assets/abhiiiii7_abhinav_varma_clean.png" width="95%" alt="ABHINAV VARMA" />
+
+</div>
 
 <br/>
 
