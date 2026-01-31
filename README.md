@@ -28,20 +28,16 @@ Data Analyst • Business Intelligence • Forecasting Expert | CSUN MS Business
 ┌─[abhinav@analytics-lab]─[~/achievements]
 └──╼ $ ls -la
 total 926
-drwxr-xr-x  92% forecasting accuracy achieved
-drwxr-xr-x  40% ETL automation efficiency gained
-drwxr-xr-x  35% data accuracy improvement delivered
--rw-r--r--  50+ KPI dashboards deployed
--rw-r--r--  28% scheduling efficiency increase
--rw-r--r--  200,000+ records processed daily
-
+-rw-r--r--  1  abhinav  analytics   50+   KPI_dashboards_deployed.txt
+-rw-r--r--  1  abhinav  analytics   92%   forecasting_accuracy_achieved.txt
+-rw-r--r--  1  abhinav  analytics   40%   etl_automation_efficiency_gained.txt
+-rw-r--r--  1  abhinav  analytics   35%   data_accuracy_improvement_delivered.txt
+-rw-r--r--  1  abhinav  analytics   28%   scheduling_efficiency_increase.txt
+-rw-r--r--  1  abhinav  analytics  200k+  records_processed_daily.txt
 
 ┌─[abhinav@analytics-lab]─[~/current-mission]
 └──╼ $ cat vision.txt
 Transforming complex datasets into actionable insights that drive strategic decisions 📊
-```
-
-<br/>
 
 <!-- Elite Contact Matrix -->
 <table align="center">
