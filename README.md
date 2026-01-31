@@ -195,7 +195,7 @@ status: "Driving data-backed decisions across operations 🚀"
 
 ### 📊 **EVENT OPERATIONS ANALYST**
 
-**`The Orchard Conference Center, CSUN • Aug 2024 – Present`**
+**`COMPASS GROUP • Aug 2024 – JAN 2026`**
 
 <img src="https://img.shields.io/badge/🎯_Forecasting_Excellence-FF6B6B?style=flat-square&labelColor=2C3E50"/>
 
@@ -220,9 +220,9 @@ status: "Driving data-backed decisions across operations 🚀"
 </td>
 <td width="50%" valign="top">
 
-### 💼 **SALES OPERATIONS & ANALYTICS INTERN**
+### 💼 **DATA ANALYST**
 
-**`Indo Swiss Remedies Pvt Ltd • Apr 2023 – May 2024`**
+**`Indo Swiss Remedies Pvt Ltd • Apr 2022 – May 2024`**
 
 <img src="https://img.shields.io/badge/📈_Sales_Intelligence-E74C3C?style=flat-square&labelColor=2C3E50"/>
 
