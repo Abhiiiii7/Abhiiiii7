@@ -821,14 +821,20 @@ Programming • Data Science • Systems Analysis
 
 ## 📈 **GITHUB ACTIVITY OVERVIEW**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavkonderu&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=4A90E2&line=50E3C2&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavkonderu&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=4A90E2&line=50E3C2&point=FFA116&area=true&hide_border=true&theme=react"
+    width="95%"
+    alt="Annual Development Activity"
+  />
+</p>
 
-</div>
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=120&section=footer&animation=twinkling" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=120&section=footer&animation=twinkling"
+    alt="Footer"
+  />
+</p>
 
 ### 🤝 **LET'S COLLABORATE ON DATA-DRIVEN SOLUTIONS**
 
