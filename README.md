@@ -9,12 +9,16 @@
 -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=300&section=header&text=ABHINAV%20KONDERU&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20BUSINESS%20INTELLIGENCE%20◉%20FORECASTING%20EXPERT%20◉&descSize=18&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50E3C2&height=300&section=header&text=ABHINAV%20KONDERU&fontSize=80&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20BUSINESS%20INTELLIGENCE%20◉%20FORECASTING%20EXPERT%20◉&descSize=18&descAlign=50&descAlignY=75" />
+</div>
 
 <br/>
 
-<!-- Animated Code Terminal -->
+<div align="center">
+
+### 🖥️ Animated Code Terminal
+
+</div>
 
 ```bash
 ┌─[abhinav@analytics-lab]─[~/projects/business-intelligence]
@@ -30,6 +34,7 @@ drwxr-xr-x  35% data accuracy improvement delivered
 -rw-r--r--  50+ KPI dashboards deployed
 -rw-r--r--  28% scheduling efficiency increase
 -rw-r--r--  200,000+ records processed daily
+
 
 ┌─[abhinav@analytics-lab]─[~/current-mission]
 └──╼ $ cat vision.txt
