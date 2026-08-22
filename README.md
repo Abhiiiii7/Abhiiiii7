@@ -18,7 +18,6 @@ I'm a Business Analytics graduate student (M.S., CSUN) and data analyst who turn
 
 `SQL / MySQL / PostgreSQL / T-SQL / Repeat`
 
-🔗 **See the work → [abhinavvarma.com](https://abhinavvarma.com)**
 
 ---
 
